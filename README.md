@@ -109,9 +109,9 @@ The app will open in your browser automatically.
 
 ## 🖥️ Application Preview
 
-![AI Document Intelligence - Upload](screenshot1.png)
+![AI Document Intelligence - Upload](Screenshot1.png)
 
-![AI Document Intelligence - Q&A](screenshot2.png)
+![AI Document Intelligence - Q&A](Screenshot2.png)
 
 ## 💻 How to Use
 
