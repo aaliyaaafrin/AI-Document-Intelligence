@@ -51,6 +51,7 @@ Generate Answer
 
 ## 📂 Project Structure
 
+```text
 AI-Document-Intelligence/
 │
 ├── app.py
@@ -59,6 +60,7 @@ AI-Document-Intelligence/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ## ⚙️ Installation
 
