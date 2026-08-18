@@ -29,6 +29,7 @@ The goal of this project is to build an AI-powered system that can understand PD
 
 ## 🔃 How It Works
 
+```text
 Upload PDF
     ↓
 Extract Text
@@ -48,6 +49,7 @@ Retrieve Relevant Document Chunks
 Send Context + Question to LLM
     ↓
 Generate Answer
+```
 
 ## 📂 Project Structure
 
